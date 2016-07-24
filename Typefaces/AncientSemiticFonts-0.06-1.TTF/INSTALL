@@ -1,0 +1,28 @@
+1. Fonts installation
+=====================
+
+    ./finstall.sh
+
+    If the above command is executed as root, the true type
+    version of the fonts will be installed in 
+    "/usr/share/fonts/AncientSemitic" and will be available to 
+    all users of the system.
+
+    If the commands is executed as regular user, the fonts will
+    be installed in ".fonts/" under users home directory and will
+    be available only to the user.
+
+2. Uninstallation
+=================
+
+    ./finstall.sh --uninstall
+
+    Be sure to be loged in the same way as you were when you
+    installed the fonts.
+    
+    If you run the command as root the "/usr/share/fonts/AncientSemitic"
+    directory with all its content will be removed
+    
+    If you run it as regular user, the fonts in the package will be renoved
+    from $HOME/.fonts.
+          

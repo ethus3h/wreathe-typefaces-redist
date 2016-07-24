@@ -1,0 +1,55 @@
+Readme for Wreathe Fonts.
+
+Version 1, 8 June 2012. Created for Wreathe 5: Rain.
+
+Most of the fonts in this folder are freely licensed. A few are legal clones of commercial fonts; please BUY THE ORIGINAL FONTS if you have the money (look for the font name in the comments reading "Design based on"…). A few have special licensing requirements; they are in /usr/share/fonts/truetype/Wreathe/WreatheAdditions/sl/. They are:
+
+* Nishiki-teki, which is "Free to use for your creative works or other purposes". I'm not quite sure what that means though…
+
+* Mojikyo fonts, which seem to be freely distributable under the following agreement:
+
+"you can download free of charge a simplified finding system and all the fonts" … "	Notice to Users of Data and Software supplied by Mojikyo Font Center
+On this agreement, only the Japanese version is valid legally. This
+agreement translated into English is provisional.
+This agreement begins with the phrase "Beginning of Terms", and ends with "End of Terms."
+[Definition]
+
+In this Contract, the general term "Konjaku Mojikyo Font Data" shall include  "Mojikyo True Type Fonts", "Mojikyo Bitmap Fonts", "Mojikyo GIFs" and any other "Graphic Image Fonts" which are all copyrighted by AI-Net Corporation.
+
+In this Contract, the term "these Copyrighted Products" shall include "Mojikyo Viewer", "Mojikyo True Type Fonts", "Mojikyo Bitmap Fonts" and "Mojikyo GIFs" and related explanatory materials.
+
+[Title of this Contract]
+
+"License Contract to use Mojikyo Fonts and these Copyrighted Prodcts"
+
+(Beginning of Terms)
+
+    License Grants and Conditions
+    Upon your acceptance of this Contract, AI-Net Corporation grants you a nonexclusive license to use "Mojikyo Fonts", and to make or distribute unlimited copies of these Copyrighted Products.
+    Limitations and Prohibitions
+        In case of your distribution of "Mojikyo Fonts" and/or these Copyrighted Products, you must include the terms which begin from Article G to the end of terms of this Conract in the same pack of your products to let your clients agree with this Contract.
+        Any charged distribution of these Copyrighted Products is prohibited.
+        Also, the distribution of Mojikyo user's commercial product in which Mojikyo Fonts and/or these Copyrighted Products are included is prohibited.
+        Only the legal user of "Konjaku Mojikyo" can distribute your products with "Mojikyo Fonts" on the condition that you do not receive a fee for these Copyrighted Products.
+        You must agree not to use these Copyrighted Products aside from the purpose of viewing fonts included in "Mojikyo" which is copyrighted by AI-Net Corporation.
+        These Copyrighted Products are owned by AI-Net Corporation, and their structure and code are the valuable trade secrets which AI-Net Corporation has developed for a long period of time. This Contract does not grant you any intellectual property rights in connection with these Copyrighted Products.
+        You must agree not to modify, reproduce, translate, reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of these Copyrighted Products.
+        Any user of Mojikyo can select any character from Mojikyo TT Fonts, and can construct another Font File and can register on his or her file using Mojikyo fonts.
+        But the user is permitted only to utilize the reconstructed Font File  privately, and must agree not to redistribute it to other persons.
+    Distribution of these Copyrighted Products
+    AI-Net Corporation has made contract to consign these Copyrighted Products with Mojikyo Institute.
+    Accordingly, the distribution of these Copyrighted Products including revised ones is made by contract through Mojikyo Font Center, which is managed by Mojikyo Institute.
+    "Image Mark which clarifies the use of Konjaku Mojikyo Fonts" is also distributed by Mojikyo Font Center.
+    For your reference, the Home Page of Mojikyo Font Center is:
+    http://www.mojikyo.gr.jp
+    No Warranty
+    AI-Net Corporation and Mojikyo Font Center do not and cannot
+    warrant any economic and mental loss, performance errors or results you may suffer by using these Copyrighted Products.
+    You must agree not to insist that AI-Net Corporation , Mojikyo Font Center and KINOKUNIYA COMPANY LTD are responsible for those results, and not to demand any compensations for any losses.
+    Governing Law and General Provisions
+        This Contract will be governed by the laws of Japan, excluding the application of its conflicts of law rules.
+        You must agree to legally resolve any case of suit in regard to this Contract according to the judgement of Yokohama District Court in Kanagawa Prefecture, Japan.
+        You must agree that this software will not be shipped, transferred, or exported into any country or used in any manner prohibited by the United States Export Administration Act or any other export laws, restrictions, or regulations.
+        This Contract shall automatically terminate upon failure by you to comply with its terms.
+        This Contract may only be modified in writing signed by an authorized officer of AI-Net Corporation.
+        These Copyrighted Products are protected by Copyright Law of United States and Japan and International Treaty provisions."
