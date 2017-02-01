@@ -1,0 +1,411 @@
+SplineFontDB: 3.0
+FontName: zhmono_prti
+FullName: ZH Mono Inscriptional Parthian
+FamilyName: ZH Mono
+Weight: Medium
+Copyright: Copyright 2010 Zach Harrison\nhttp://sf.net/projects/zhmono/\n\nThis font, ZH Mono, is dual-licensed under the SIL Open Font License, Version 1.1 (see ofl.txt for details) and, with the following exception, under the GNU General Public License version 3 (see gpl.txt for details):\n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.
+UComments: "2010-5-21: Created.+AAoA-2010-5-23: Added Aleph glyph.+AAoA-2010-7-16: Added four glyphs." 
+Version: 002.001
+ItalicAngle: 0
+UnderlinePosition: -200
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
+XUID: [1021 599 2137861788 608145]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1274242300
+ModificationTime: 1279274874
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2FamilyClass: 2048
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000000.00000000
+DEI: 91125
+LangName: 1033 
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 68384 16 6
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 1114113 15
+
+StartChar: space
+Encoding: 32 32 0
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 1
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 2
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uniFFFD
+Encoding: 65533 65533 3
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 77.7773 55.5557<444.444 555.556> 355.556 111.111<456.294 543.706>
+LayerCount: 2
+Fore
+SplineSet
+500 744.444 m 1
+ 944.444 300 l 1
+ 500 -144.444 l 1
+ 55.5557 300 l 1
+ 500 744.444 l 1
+500 577.777 m 0
+ 407.952 577.777 333.333 503.158 333.333 411.111 c 1
+ 444.444 411.111 l 1
+ 444.444 441.794 469.317 466.667 500 466.667 c 0
+ 530.683 466.667 555.556 441.794 555.556 411.111 c 0
+ 555.556 380.429 530.683 355.556 500 355.556 c 0
+ 469.317 355.556 444.444 330.683 444.444 300 c 2
+ 444.444 133.333 l 1
+ 555.556 133.333 l 1
+ 555.556 253.958 l 1
+ 620.282 276.842 666.667 338.548 666.667 411.111 c 0
+ 666.667 503.158 592.048 577.777 500 577.777 c 0
+444.444 77.7773 m 1
+ 444.444 -33.333 l 1
+ 555.556 -33.333 l 1
+ 555.556 77.7773 l 1
+ 444.444 77.7773 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: .notdef
+Encoding: 1114112 -1 4
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 77.7773 55.5557<444.444 555.556> 355.556 111.111<456.294 543.706>
+LayerCount: 2
+Fore
+SplineSet
+500 744.444 m 1
+ 944.444 300 l 1
+ 500 -144.444 l 1
+ 55.5557 300 l 1
+ 500 744.444 l 1
+500 577.777 m 0
+ 407.952 577.777 333.333 503.158 333.333 411.111 c 1
+ 444.444 411.111 l 1
+ 444.444 441.794 469.317 466.667 500 466.667 c 0
+ 530.683 466.667 555.556 441.794 555.556 411.111 c 0
+ 555.556 380.429 530.683 355.556 500 355.556 c 0
+ 469.317 355.556 444.444 330.683 444.444 300 c 2
+ 444.444 133.333 l 1
+ 555.556 133.333 l 1
+ 555.556 253.958 l 1
+ 620.282 276.842 666.667 338.548 666.667 411.111 c 0
+ 666.667 503.158 592.048 577.777 500 577.777 c 0
+444.444 77.7773 m 1
+ 444.444 -33.333 l 1
+ 555.556 -33.333 l 1
+ 555.556 77.7773 l 1
+ 444.444 77.7773 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uni000A
+Encoding: 10 10 5
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: u10B58
+Encoding: 68440 68440 6
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<388.889 453.21>
+VStem: 500 111.111<-42.0984 688.889>
+LayerCount: 2
+Fore
+SplineSet
+500 688.889 m 1
+ 611.111 688.889 l 1
+ 611.111 22.2227 l 2
+ 611.111 -100.508 511.619 -200 388.889 -200 c 1
+ 388.889 -88.8887 l 1
+ 450.254 -88.8887 500 -39.1426 500 22.2227 c 2
+ 500 688.889 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B59
+Encoding: 68441 68441 7
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<277.777 342.098 500 564.321>
+VStem: 388.889 111.111<-42.0984 688.889> 611.111 111.111<-42.0984 688.889>
+LayerCount: 2
+Fore
+SplineSet
+611.111 688.889 m 1
+ 722.223 688.889 l 1
+ 722.223 22.2227 l 2
+ 722.223 -100.508 622.73 -200 500 -200 c 1
+ 500 -88.8887 l 1
+ 561.365 -88.8887 611.111 -39.1426 611.111 22.2227 c 2
+ 611.111 688.889 l 1
+388.889 688.889 m 1
+ 500 688.889 l 1
+ 500 22.2227 l 2
+ 500 -100.508 400.508 -200 277.777 -200 c 1
+ 277.777 -88.8887 l 1
+ 339.143 -88.8887 388.889 -39.1426 388.889 22.2227 c 2
+ 388.889 688.889 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B5A
+Encoding: 68442 68442 8
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<166.667 230.987 388.889 453.21 611.111 675.432>
+VStem: 277.777 111.111<-42.0984 688.889> 500 111.111<-42.0984 688.889> 722.223 111.11<-42.0984 688.889>
+LayerCount: 2
+Fore
+SplineSet
+277.777 688.889 m 1
+ 388.889 688.889 l 1
+ 388.889 22.2227 l 2
+ 388.889 -100.508 289.396 -200 166.667 -200 c 1
+ 166.667 -88.8887 l 1
+ 228.031 -88.8887 277.777 -39.1426 277.777 22.2227 c 2
+ 277.777 688.889 l 1
+500 688.889 m 1
+ 611.111 688.889 l 1
+ 611.111 22.2227 l 2
+ 611.111 -100.508 511.619 -200 388.889 -200 c 1
+ 388.889 -88.8887 l 1
+ 450.254 -88.8887 500 -39.1426 500 22.2227 c 2
+ 500 688.889 l 1
+722.223 688.889 m 1
+ 833.333 688.889 l 1
+ 833.333 22.2227 l 2
+ 833.333 -100.508 733.841 -200 611.111 -200 c 1
+ 611.111 -88.8887 l 1
+ 672.476 -88.8887 722.223 -39.1426 722.223 22.2227 c 2
+ 722.223 688.889 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B5B
+Encoding: 68443 68443 9
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<55.667 119.987 277.889 342.21 500.111 564.432 722.333 786.654>
+VStem: 166.777 111.111<-42.0984 688.889> 389 111.111<-42.0984 688.889> 611.223 111.11<-42.0984 688.889> 833.444 111.111<-42.0984 688.889>
+LayerCount: 2
+Fore
+SplineSet
+166.777 688.889 m 1
+ 277.889 688.889 l 1
+ 277.889 22.2227 l 2
+ 277.889 -100.508 178.396 -200 55.667 -200 c 1
+ 55.667 -88.8887 l 1
+ 117.031 -88.8887 166.777 -39.1426 166.777 22.2227 c 2
+ 166.777 688.889 l 1
+389 688.889 m 1
+ 500.111 688.889 l 1
+ 500.111 22.2227 l 2
+ 500.111 -100.508 400.619 -200 277.889 -200 c 1
+ 277.889 -88.8887 l 1
+ 339.254 -88.8887 389 -39.1426 389 22.2227 c 2
+ 389 688.889 l 1
+611.223 688.889 m 1
+ 722.333 688.889 l 1
+ 722.333 22.2227 l 2
+ 722.333 -100.508 622.841 -200 500.111 -200 c 1
+ 500.111 -88.8887 l 1
+ 561.476 -88.8887 611.223 -39.1426 611.223 22.2227 c 2
+ 611.223 688.889 l 1
+833.444 688.889 m 1
+ 944.556 688.889 l 1
+ 944.556 22.2227 l 2
+ 944.556 -100.508 845.063 -200 722.333 -200 c 1
+ 722.333 -88.8887 l 1
+ 783.698 -88.8887 833.444 -39.1426 833.444 22.2227 c 2
+ 833.444 688.889 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B40
+Encoding: 68416 68416 10
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<55.5557 718.333>
+VStem: 629.027 111.112<232.767 355.556> 833.333 111.111<-88.8887 355.556>
+LayerCount: 2
+Fore
+SplineSet
+629.027 355.556 m 1
+ 689.375 355.556 l 1
+ 714.236 355.556 l 1
+ 740.139 355.556 l 1
+ 740.139 258.889 l 1
+ 833.333 -88.8887 l 1
+ 833.333 355.556 l 1
+ 944.444 355.556 l 1
+ 944.444 -88.8887 l 1
+ 944.444 -200 l 1
+ 833.333 -200 l 1
+ 55.5557 -200 l 1
+ 55.5557 -88.8887 l 1
+ 718.333 -88.8887 l 1
+ 629.027 244.444 l 1
+ 629.027 355.556 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B49
+Encoding: 68425 68425 11
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.111<388.889 453.21>
+VStem: 500 111.111<-42.0984 466.667>
+LayerCount: 2
+Fore
+SplineSet
+500 466.667 m 1
+ 611.111 466.667 l 1
+ 611.111 22.2227 l 2
+ 611.111 -100.508 511.619 -200 388.889 -200 c 1
+ 388.889 -88.8887 l 1
+ 450.254 -88.8887 500 -39.1426 500 22.2227 c 2
+ 500 466.667 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B41
+Encoding: 68417 68417 12
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.125<55.5625 746.104> 244.438 111.125<402.785 746.104>
+VStem: 277.781 111.094<369.471 522.219> 833.344 111.094<-3.24065 158.803>
+LayerCount: 2
+Fore
+SplineSet
+277.781 522.219 m 1
+ 388.875 522.219 l 1
+ 388.875 411.125 l 2
+ 388.875 380.442 413.755 355.562 444.438 355.562 c 2
+ 666.656 355.562 l 2
+ 820.068 355.562 944.438 231.193 944.438 77.7812 c 0
+ 944.438 -75.6309 820.068 -200 666.656 -200 c 2
+ 55.5625 -200 l 1
+ 55.5625 -88.875 l 1
+ 666.656 -88.875 l 2
+ 758.704 -88.875 833.344 -14.2666 833.344 77.7812 c 0
+ 833.344 169.829 758.704 244.438 666.656 244.438 c 2
+ 444.438 244.438 l 2
+ 352.39 244.438 277.781 319.077 277.781 411.125 c 2
+ 277.781 522.219 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B42
+Encoding: 68418 68418 13
+Width: 1000
+VWidth: 0
+HStem: -200 111.125<222.219 358.48>
+LayerCount: 2
+Fore
+SplineSet
+777.781 466.656 m 1
+ 777.75 351.656 l 1
+ 775.65 46.6289 527.741 -200 222.219 -200 c 1
+ 222.219 -88.875 l 1
+ 456.226 -88.875 647.989 91.9756 665.375 321.531 c 1
+ 269.938 215.562 l 1
+ 241.188 322.844 l 1
+ 777.781 466.656 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: u10B4D
+Encoding: 68429 68429 14
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -200 111.125<55.5625 799.656>
+VStem: 710.344 111.125<232.842 355.562>
+LayerCount: 2
+Fore
+SplineSet
+710.344 355.562 m 1
+ 821.469 355.562 l 1
+ 821.469 258.969 l 1
+ 944.438 -200 l 1
+ 55.5625 -200 l 1
+ 55.5625 -88.875 l 1
+ 799.656 -88.875 l 1
+ 710.344 244.438 l 1
+ 710.344 355.562 l 1
+EndSplineSet
+Validated: 524289
+EndChar
+EndChars
+EndSplineFont

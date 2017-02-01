@@ -1,0 +1,24 @@
+DESCRIPTION
+
+The OPENTYPE FONT "Ahuramazda.ttf" is the work of Ernst Tremel
+and is licensed under the SIL Open Font License, Version 1.1.
+See license.txt for the full text of the license.
+
+Its glyphs are made concerning all the Avestan Characters in Unicode 
+Version 5.2. (Range U+10B00 to U+10B3F) and some of the Inscriptional 
+Pahlavi Characters in Unicode Version 5.2. (i.e. U+10B78 to U+10B7F).
+
+It was necessary to allocate some Avestan Conjunct Characters to the
+Private Use Area (i.e. <93>AHE<94> to U+E100, <93>SHEA<94> to U+E101,
+<93>SHECE<94> to U+E102 and <93>SHETE<94> to U+103) to get them
+integrated into the font.
+
+"Ahuramazda.ttf" now consists of all glyphs to display Avestan in its 
+own scripture.
+
+For feedback, you may contact the author at
+Ernst Tremel 
+Goldstrasse 75 
+D - 48147 Muenster 
+Germany
+email: e-tremel@t-online.de
