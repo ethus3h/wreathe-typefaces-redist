@@ -1,0 +1,87 @@
+﻿Thanks
+
+A part of this font was completed with the support of Grant-in-Aid for
+Publication of Scientific Research Results from Japan Society for the
+Promotion of Science and the International Research Institute for
+Zen Buddhism (IRIZ), Hanazono University.
+
+----------
+
+謝辞
+
+このフォントのJIS X 0208:1997 収録文字集合の一部は、2005年度 日本学術
+振興会科学研究費補助金（研究公開促進費）および花園大学国際禅学研究所[1]
+文部科学省・学術フロンティア推進事業 の補助により漢字データベース計画[2]
+で作成したデータを利用しています。
+
+このフォントの収録文字集合の一部は、科学研究費補助金（課題番号:22700262）
+による研究成果の一部です。
+
+またこのフォントは、グリフウィキに登録ユーザーとして、あるいは匿名ユー
+ザーとして漢字字形データを登録・改良してくださった多数の方々によるボラ
+ンティアの活動から成り立っています。
+
+[1] http://iriz.hanazono.ac.jp/
+[2] http://kanji-database.sourceforge.net/
+[3] http://glyphwiki.org/
+
+----------
+
+花園フォントの作成に協力してくれた方々
+
+（グリフウィキの登録アカウント名。アルファベット順）
+
+aparthum
+daekyo
+emk
+ericau
+fezn
+fourbthree
+fx
+golconda
+hayama
+horaiwataru
+jck
+jdt
+jeroen
+johotogoshinentai
+jun
+kamichi
+kano
+kitti
+koichiro
+koikek
+kzhr
+ldx0
+lizard
+mandel59
+mashabow
+mihail-jp
+moro
+nankanjimincho
+nay
+numen
+ookubo
+pyrite
+renpei
+sayunu
+schwei2
+sdfvista7
+seena
+spinda-kkmr
+takata
+tomomo
+tsuruki
+tsuteto
+twe
+twex
+uakira
+uchi
+uda
+vietnam
+widehawk
+wonderful-heaven
+yasuoka
+y-iijima
+yoshi
+その他匿名ユーザーの方々
